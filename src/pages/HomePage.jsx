@@ -11,8 +11,6 @@ function HomePage() {
         <Container>
         <Stack direction="horizontal" gap={3} className="my-md-5">
         <CardComponent></CardComponent>
-        <CardComponent></CardComponent>
-        <CardComponent></CardComponent>
     </Stack>
     </Container>
 
